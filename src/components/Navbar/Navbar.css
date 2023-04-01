@@ -1,7 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 ul {
   display: flex;
   list-style: none;
   justify-content: center;
   gap: 20px;
-  background-color: rosybrown;
+  font-size: large;
+  padding-bottom: 100px;
+}
+
+.navContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.carrito {
+  align-self: self-end;
 }
