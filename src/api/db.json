@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "producto": "Bowl",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901836/1_iu21qp.jpg",
+      "precio": 4620,
+      "categoria": "Cocina",
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "producto": "Cuchara",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901837/2_uz8jnn.jpg",
+      "precio": 2200,
+      "categoria": "Cocina",
+      "stock": 12
+    },
+    {
+      "id": 3,
+      "producto": "Frasco",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901836/3_sa54a9.jpg",
+      "precio": 8690,
+      "categoria": "Cocina",
+      "stock": 12
+    },
+    {
+      "id": 4,
+      "producto": "Pinches",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901836/4_ftaxmi.jpg",
+      "precio": 1750,
+      "categoria": "Cocina",
+      "stock": 12
+    },
+    {
+      "id": 5,
+      "producto": "Taza",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901837/5_v845iy.jpg",
+      "precio": 3490,
+      "categoria": "Cocina",
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "producto": "Almohadon1",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901837/6_qjjun5.jpg",
+      "precio": 11100,
+      "categoria": "Dormitorio",
+      "stock": 12
+    },
+    {
+      "id": 7,
+      "producto": "Almohadon2",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901837/7_fo55kj.jpg",
+      "precio": 6900,
+      "categoria": "Dormitorio",
+      "stock": 12
+    },
+    {
+      "id": 8,
+      "producto": "Manta1",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901837/8_qpqsi2.jpg",
+      "precio": 69300,
+      "categoria": "Dormitorio",
+      "stock": 12
+    },
+    {
+      "id": 9,
+      "producto": "Manta2",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901837/9_epldsq.jpg",
+      "precio": 28000,
+      "categoria": "Dormitorio",
+      "stock": 12
+    },
+    {
+      "id": 10,
+      "producto": "Almohadon3",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901837/10_kjmt15.jpg",
+      "precio": 10200,
+      "categoria": "Dormitorio",
+      "stock": 12
+    },
+    {
+      "id": 11,
+      "producto": "Portavela",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901837/11_tryije.jpg",
+      "precio": 2530,
+      "categoria": "Deco",
+      "stock": 12
+    },
+    {
+      "id": 12,
+      "producto": "Alfombra",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901837/12_ptc4gs.jpg",
+      "precio": 8900,
+      "categoria": "Deco",
+      "stock": 12
+    },
+    {
+      "id": 13,
+      "producto": "Fanal",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901838/13_pe4e51.jpg",
+      "precio": 25300,
+      "categoria": "Deco",
+      "stock": 12
+    },
+    {
+      "id": 14,
+      "producto": "Perchero",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901838/14_rajlvk.jpg",
+      "precio": 2100,
+      "categoria": "Deco",
+      "stock": 12
+    },
+    {
+      "id": 15,
+      "producto": "Tirador",
+      "img": "https://res.cloudinary.com/dlsk3cazy/image/upload/v1680901838/15_njwvk1.jpg",
+      "precio": 3600,
+      "categoria": "Deco",
+      "stock": 12
+    }
+  ]
+}
