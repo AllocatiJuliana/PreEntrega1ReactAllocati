@@ -22,7 +22,6 @@ export const Navbar = () => {
           <Link to="/categoria/Cocina">Cocina</Link>
           <Link to="/categoria/Dormitorio">Dormitorio</Link>
           <Link to="/categoria/Deco">Deco</Link>
-          <Link to="/categoria/Contacto">Contacto</Link>
         </ul>
       </div>
       <Outlet />
