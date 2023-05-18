@@ -4,9 +4,9 @@
 
 !["Este es el Logo de Mi pagina"](https://res.cloudinary.com/dlsk3cazy/image/upload/v1680231336/Infinito_Bazar_PNG_oxrmvu.png)
 
-[IR A LA PAGINA](WWW.INFINITOBAZAR.COM.AR)
+[IR A LA PAGINA](https://infinitobazar.vercel.app/)
 
-`Git clone (poner repositorio de github cuando lo termine)`
+`Git clone (https://github.com/AllocatiJuliana/PreEntrega1ReactAllocati.git)`
 
 ### Base de Datos
 
