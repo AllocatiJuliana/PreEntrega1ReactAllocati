@@ -8,7 +8,8 @@ export const ItemDetail = ({ product, onAdd, cantidadTotal }) => {
     <div className="cardDetail">
       <img src={product.img} alt="" />
       <h2>{product.producto}</h2>
-      <h3>{product.precio}</h3>
+      <h3>${product.precio}</h3>
+      <h4>{product.descripcion}</h4>
 
       {product.stock > 0 ? (
         <CounterContainer

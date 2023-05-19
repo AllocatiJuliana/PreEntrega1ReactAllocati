@@ -29,7 +29,7 @@ const ItemCard = ({ item }) => {
           variant="body2"
           color="text.secondary"
         >
-          {item.precio}
+          ${item.precio}
         </Typography>
       </CardContent>
       <CardActions style={{ display: "flex", justifyContent: "center" }}>

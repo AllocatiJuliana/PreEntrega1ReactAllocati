@@ -22,6 +22,7 @@
 ### Para poder clonar este repositorio, deberas crear una base de datos que los documentos de los productos contengan lo siguiente:
 
 - producto
+- descripcion
 - img
 - precio
 - categoria
